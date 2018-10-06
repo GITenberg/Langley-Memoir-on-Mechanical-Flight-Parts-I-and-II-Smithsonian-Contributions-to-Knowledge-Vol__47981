@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Langley Memoir on Mechanical Flight, Parts I and II
 
   Smithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911'
